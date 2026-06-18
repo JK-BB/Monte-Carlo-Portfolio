@@ -32,35 +32,6 @@ This project simulates **10,000 possible future scenarios** for stock portfolio 
 
 ## 🚀 Getting Started
 
-### Prerequisites
-
-- Python 3.7 or higher
-- pip package manager
-
-### Installation
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/monte-carlo-portfolio.git
-cd monte-carlo-portfolio
-```
-
-2. **Create a virtual environment (recommended)**
-```bash
-python -m venv venv
-
-# Activate on Windows
-venv\Scripts\activate
-
-# Activate on Mac/Linux
-source venv/bin/activate
-```
-
-3. **Install dependencies**
-```bash
-pip install -r requirements.txt
-```
-
 ### Quick Start
 
 1. **Run data analysis** to download historical data and calculate parameters:
